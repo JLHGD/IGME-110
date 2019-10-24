@@ -1,0 +1,26 @@
+html{
+    background-color: #d7e0da;
+}
+
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 17px;
+    margin: 50 auto;
+}
+
+p {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 17px;
+    width: 1000px;
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Biryani';
+    font-size: 30px;
+}
+
+h2 {
+    font-family: 'Biryani';
+    font-size: 20px;
+}
